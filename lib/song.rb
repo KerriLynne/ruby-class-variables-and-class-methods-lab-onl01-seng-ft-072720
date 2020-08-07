@@ -52,13 +52,3 @@ class Song
 
 
 end
-# genre_count = {}
-#     @@genres.each do |genre|
-#       if genre_count[genre] #exists
-#         genre_count[genre] += 1
-#       else #none
-#         genre_count[genre] = 1
-#       end
-#     end
-#     genre_count
-#NEED SAME THING FOR THE ARTISTS COUNT
